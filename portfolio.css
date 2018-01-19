@@ -82,6 +82,10 @@ nav ul li a {
 	text-decoration: none;
 }
 
+nav ul li a:visited {
+	color: white;
+}
+
 nav li a:hover {
 	background-color: #4CAF50;
 }
