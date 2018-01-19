@@ -58,11 +58,6 @@ article {
 	flex: 4;
 }
 
-caption {
-	margin-left:40px;
-	color: lightgray;
-}
-
 nav ul {
 	list-style-type: none;
 	margin: 0;
@@ -79,7 +74,7 @@ nav li {
 	float: left;
 }
 
-nav li a {
+nav ul li a {
 	display: block;
 	color: white;
 	text-align: center;
